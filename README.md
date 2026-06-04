@@ -4,7 +4,7 @@
 
 # Run and deploy your AI Studio app
 
-帮助你快速地生成一些带横线的 A4 纸张
+帮助你快速地生成一些带横线的 A4 纸张，点击下方链接即可自由操作
 
 View your app in AI Studio: https://ai.studio/apps/drive/17gHzhhHH_7u5o1Zq6lKa-XGocEsEZ1Ww
 
