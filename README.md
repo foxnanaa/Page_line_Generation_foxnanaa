@@ -4,7 +4,7 @@
 
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+帮助你快速地生成一些带横线的 A4 纸张
 
 View your app in AI Studio: https://ai.studio/apps/drive/17gHzhhHH_7u5o1Zq6lKa-XGocEsEZ1Ww
 
